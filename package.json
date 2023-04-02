@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Tailwind",
   "main": "index.js",
+  "homepage": "https://ursprash.github.io/razoerpay-clone/",
   "scripts": {
     "start": "vite"
   },

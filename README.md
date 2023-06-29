@@ -27,7 +27,8 @@ Create a new branch for your feature: git checkout -b feature/your-feature.
 Commit your changes: git commit -am 'Add some feature'.
 Push to the branch: git push origin feature/your-feature.
 Submit a pull request.
-License
+
+##License
 This project is licensed under the MIT License. Feel free to use, modify, or distribute the code for personal or commercial purposes. However, please note that the clone website is intended for educational purposes and is not affiliated with or endorsed by Razorpay.
 
 We hope you find this Razorpay Clone Website helpful for learning web development and exploring online payment gateway functionality. If you have any questions or feedback, please don't hesitate to contact us.

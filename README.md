@@ -23,10 +23,10 @@ Create a new branch:git checkout -b my-feature
 Make your changes and commit them:git commit -m "Add my feature"
 Push your changes to your forked repository:git push origin my-feature
 
-#License
+###License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
-Acknowledgements
+###Acknowledgements
 The original Razorpay website: https://razorpay.com
 HTML
 CSS
